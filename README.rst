@@ -1,9 +1,6 @@
-Template for the Read the Docs tutorial
+Welcome to Handbook of Safe-AI Scout
 =======================================
 
-This GitHub template includes fictional Python library
-with some basic Sphinx docs.
+Detailed Documentation:
 
-Read the tutorial here:
-
-https://docs.readthedocs.io/en/stable/tutorial/
+https://safeai-scout.readthedocs.io/en/latest/
