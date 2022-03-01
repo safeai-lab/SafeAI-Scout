@@ -1,0 +1,8 @@
+[build-system]
+requires = ["flit_core >=3.2,<4"]
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "Safe AI Scout"
+authors = [{name = "Jinchi Zhang", email = "jinchizhang6@gmail.com"}, {name = "Jiayin Xia", email = "jiayinx@andrew.cmu.edu"}, {name = "Jiarun Wei", email = "jiarunw@andrew.cmu.edu"}]
+dynamic = ["version", "description"]
