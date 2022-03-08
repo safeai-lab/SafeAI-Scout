@@ -8,4 +8,6 @@ System initializations
 
 Lidar and camera drivers
 ------
-cd pc_ws
+.. code:: bash
+
+   cd pc_ws
