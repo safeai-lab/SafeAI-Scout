@@ -2,7 +2,7 @@ Part List
 =====
 
 .. csv-table:: Part List
-   :file: part.csv
+   :file: "part.csv"
    :widths: 30, 70
    :header-rows: 1
 
