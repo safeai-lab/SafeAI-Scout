@@ -1,6 +1,6 @@
-Welcome to Handbook of Safe-AI Scout
+Welcome to Safe-AI Scout
 =======================================
 
-Rendered version of this repo:
+Feel free to visit our wiki at:
 
 https://safeai-scout.readthedocs.io/en/latest/
