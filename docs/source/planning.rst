@@ -5,4 +5,4 @@ Planning
    cd catkin_ws 
    python navigation.py
    
-.. image:: GZJ_16782_project.pdf
+:download:`pdf <GZJ_16782_project.pdf>`
