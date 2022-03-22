@@ -14,7 +14,7 @@ System initializations
    3. **Xavier** 
       The power wire of Xavier is labeled and its voltage is 20V. It should be connected on a seperate power bank.
 
-* Data Transfer Connection
+* Data Transfer Connection 
    1. **Lidars**
       Each lidar is connected to the router with a ethernet cable respectively
    2. **Xavier**
@@ -25,21 +25,20 @@ System initializations
       The chassis is connected to the processor via USB in CAN protocol.
 
 * Remote Controller Connection
-
-  As is shown in the following figure, the buttons and joysticks are labeled with numbers. To turn the controller on and connect the chassis, follow these steps: 
-      
-  1. Flip `lever 1`, `lever 2`, `lever 3` and `lever 4` to the top
-  
-  2. Hold `button 5` and `button 6`
-  
-  3. Flip `lever 1` to the bottom and `lever 2` to the middle.
-  
-  4. Turn on the chassis and wait for connection in approximately 5 seconds.
+   As is shown in the following figure, the buttons and joysticks are labeled with numbers. To turn the controller on and connect the chassis, follow these steps: 
    
-  Detailed Manual can be found  `here <https://www.generationrobots.com/media/agilex/SCOUT_MINI_UserManual_v1.0.1_EN.pdf>`_
+   1. Flip `lever 1`, `lever 2`, `lever 3` and `lever 4` to the top
   
-  .. image:: controller.jpg
-     :width: 400px
+   2. Hold `button 5` and `button 6`
+  
+   3. Flip `lever 1` to the bottom and `lever 2` to the middle.
+   
+   4. Turn on the chassis and wait for connection in approximately 5 seconds.
+   
+   Detailed Manual can be found  `here <https://www.generationrobots.com/media/agilex/SCOUT_MINI_UserManual_v1.0.1_EN.pdf>`_
+  
+   .. image:: controller.jpg
+      :width: 400px
       
 
 
