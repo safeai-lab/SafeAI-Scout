@@ -24,7 +24,13 @@ System initializations
    4. **Chassis**
       The chassis is connected to the processor via USB in CAN protocol.
 * Remote Controller Connection
-.. image:: controller.jpg
+      As is shown in the following figure, the buttons and joysticks are labeled with numbers.
+      To turn the controller on and connect the chassis, follow these steps: 
+      1. Hold `button 5` and `button 6`
+      2. Flip the lever 
+   .. image:: controller.jpg
+      :width: 400px
+   
 Lidar and camera drivers
 ------
 .. code:: bash
