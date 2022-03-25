@@ -47,3 +47,6 @@ Lidar and camera drivers
 .. code:: bash
 
    cd pc_ws
+   sudo ifconfig eth0 192.168.1.50
+   sudo ptp4l -l eth0 -l -6 -m
+   sudo phc2sys -c eth0 -s CLOCK_REALTIME -o 0
