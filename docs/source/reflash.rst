@@ -14,4 +14,14 @@ Prepare Host Machine
 
 #. Create a NVIDIA account and enroll in the developer plan
 
-#. 
+#. Connect Xavier and host with USB
+
+#. On step 1 of the sdkmanager, only select target machine, no need to select host machine
+
+#. Click start on step 2 and wait for downoad
+
+#. After download, a flash confirmation will pop out. Select NVMe for target, not the default one
+
+#. After flashing Jetson OS, a confirmation window will pop out. Click connect after waiting about 5 minutes
+
+
