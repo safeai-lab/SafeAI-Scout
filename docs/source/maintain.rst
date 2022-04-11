@@ -1,18 +1,20 @@
 maintain
 ======
 
-Adjust fan mode
+Fan mode configuration
 ------
 
-Set fan to cooling mode if Xavier is too hot
-
 .. code:: bash
 
-   sudo /usr/sbin/nvpmodel -d "cool"
+   sudo gedit /etc/automagic-fan/config.json
 
-Set fan to quite mode if Xavier is normal
+Show current fan speed
+------
 
 .. code:: bash
+   
+   sudo jetson_clocks --show
 
-   sudo /usr/sbin/nvpmodel -d "quiet"
+.. note::
 
+   detailed instructions can be found `here <https://github.com/Pyrestone/jetson-fan-ctl>`_
