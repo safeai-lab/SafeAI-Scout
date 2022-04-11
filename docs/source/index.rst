@@ -12,6 +12,7 @@ Contents
 
 .. toctree::
    reflash
+   maintain
    part-list
    hardware
    software
