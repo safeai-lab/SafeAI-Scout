@@ -35,8 +35,8 @@ System initializations
    
    4. Turn on the chassis and wait for connection in approximately 5 seconds.
    
-   Detailed Manual can be found  `here <https://www.generationrobots.com/media/agilex/SCOUT_MINI_UserManual_v1.0.1_EN.pdf>`_
-  
+   Detailed Manual can be found  `here <https://www.generationrobots.com/media/agilex/SCOUT_MINI_UserManual_v1.0.1_EN.pdf>`_, the configuration of the controller can be found `here <松灵机器人产品遥控器校准配置指导手册_v1.0_CN.pdf>`_
+   
    .. image:: controller.jpg
       :width: 400px
       
