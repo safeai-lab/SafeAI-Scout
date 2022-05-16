@@ -2,7 +2,7 @@ Software
 ======
 
 .. toctree::
-   chassis control
+   chassis_control
    localization
    planning
    perception
